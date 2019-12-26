@@ -1,11 +1,11 @@
 # Site settings
 author: Anthony Ybarra
-title: 
+title: Anthony's Coding Journey
 header-img: img/home-bg.png
 email: anthony_jy72@yahoo.com
 copyright_name: Anthony Ybarra
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My trek through coding bootcamp
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Anthonyjy72
